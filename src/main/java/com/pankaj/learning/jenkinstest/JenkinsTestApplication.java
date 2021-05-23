@@ -8,7 +8,7 @@ public class JenkinsTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsTestApplication.class, args);
-		System.out.println("Just testing jenkins");
+		System.out.println("testing poll scm");
 	}
 
 }
